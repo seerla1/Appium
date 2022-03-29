@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25521" started-at="2022-03-29T12:25:42 IST" finished-at="2022-03-29T12:26:07 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25521" started-at="2022-03-29T12:25:42 IST" finished-at="2022-03-29T12:26:07 IST">
+      <class name="com.qa.tests.Scenario_2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.tests.Scenario_2@d6da883]" name="setup" is-config="true" duration-ms="14221" started-at="2022-03-29T12:25:27 IST" finished-at="2022-03-29T12:25:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qa.tests.Scenario_2@d6da883]" name="beforeClass" is-config="true" duration-ms="2806" started-at="2022-03-29T12:25:42 IST" finished-at="2022-03-29T12:25:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.Scenario_2@d6da883]" name="beforeMethod" is-config="true" duration-ms="339" started-at="2022-03-29T12:25:44 IST" finished-at="2022-03-29T12:25:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.Scenario_2.validUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validUser()[pri:0, instance:com.qa.tests.Scenario_2@d6da883]" name="validUser" duration-ms="22280" started-at="2022-03-29T12:25:45 IST" finished-at="2022-03-29T12:26:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUser -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qa.tests.Scenario_2@d6da883]" name="afterClass" is-config="true" duration-ms="1" started-at="2022-03-29T12:26:07 IST" finished-at="2022-03-29T12:26:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.Scenario_2@d6da883]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-03-29T12:26:07 IST" finished-at="2022-03-29T12:26:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.Scenario_2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
